@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mister Calhas - Telhados, Calhas, Rufos e Chaminés</title>
+  <title>Miister Calhas - Telhados, Calhas, Rufos e Chaminés</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 </head>
 <body>
   <header>
-    <h1>Mister Calhas</h1>
+    <h1>Miister Calhas</h1>
     <p>Seu telhado protegido, sua casa segura</p>
   </header>
 
@@ -70,7 +70,7 @@
       <li>Instalação e vedação de chaminés</li>
     </ul>
 
-    <h2>Por que escolher a Mister Calhas?</h2>
+    <h2>Por que escolher a Miister Calhas?</h2>
     <ul>
       <li>Profissionais experientes</li>
       <li>Atendimento rápido</li>
@@ -89,11 +89,11 @@
 
   <section>
     <h2>Evite Problemas!</h2>
-    <p>Não espere infiltrações, goteiras e prejuízos. Fale com a Mister Calhas e resolva hoje mesmo.</p>
+    <p>Não espere infiltrações, goteiras e prejuízos. Fale com a Miister Calhas e resolva hoje mesmo.</p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Mister Calhas - Todos os direitos reservados</p>
+    <p>&copy; 2025 Miister Calhas - Todos os direitos reservados</p>
   </footer>
 </body>
 </html>
