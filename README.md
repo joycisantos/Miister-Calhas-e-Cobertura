@@ -6,7 +6,7 @@
   <title>MIISTER - Telhados, Calhas, Rufos e Chaminés</title>
   <style>
     body {
-      font-family: MIISTER CALHAS, sans-serif;
+      font-family: MIISTER CALHAS,  sans-serif;
       margin: 0;
       padding: 0;
       background: #f3f3f3;
